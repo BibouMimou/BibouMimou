@@ -7,4 +7,4 @@ Ces expériences m'ont permis de développer des compétences analytiques solide
 
 Passionnée par l’analyse de données, j'ai décidé de poursuivre une formation afin d’enrichir mon profil avec des compétences techniques telles que SQL, Python ou PowerBI.
 
-Je suis convaincue que la combinaison de mon expérience professionnelle et de mes récentes compétences techniques, ainsi que ma motivation et ma capacité d'apprentissage rapide, me permettront de m'adapter rapidement et d'être autonome dans un poste de data analyst.
+Je suis convaincue que la combinaison de mon expérience professionnelle et de mes récentes compétences techniques, ainsi que ma motivation et ma capacité d'apprentissage rapide, me permettront de m'adapter et d'être autonome rapidement dans un poste de data analyst.
